@@ -4,7 +4,7 @@ tags:
 - 俄羅斯方塊
 - Tetris
 categories:
-- 雜記
+- 分享
 - 轉錄文章
 ---
 
