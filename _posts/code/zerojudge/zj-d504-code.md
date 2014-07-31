@@ -9,7 +9,7 @@ categories:
 - ZeroJudge
 ---
 
-![](/blog/img/20091112-212738-1.jpg)
+{% owl-img img/20091112-212738-1.jpg %}
 
 <spen style="color: red;">下面捏很大，請小心</span>
 

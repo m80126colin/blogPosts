@@ -41,7 +41,7 @@ categories:
 其實我們都猜錯了，
 是木柵線最先通車
 
-![](/blog/img/mrt-travel/mrt-2.jpg)
+{% owl-img img/mrt-travel/mrt-2.jpg %}
 
 這裡是木柵線動物園附近
 於是台北捷運遠征團－－傳說，
@@ -54,15 +54,15 @@ categories:
 剛進海山站（家住海山稍遠處）就直接遇到小花，兩個人就帶著一塊綠色板子到永寧去畫，畫的亂七八糟的說。
 然後小花打給還在附中的勇竣（他們附中返校打掃），所以在西門站再集合，然後我們先開始拍照。
 
-![](/blog/img/mrt-travel/mrt-3.jpg)
-![](/blog/img/mrt-travel/mrt-4.jpg)
-![](/blog/img/mrt-travel/mrt-5.jpg)
+{% owl-img img/mrt-travel/mrt-3.jpg %}
+{% owl-img img/mrt-travel/mrt-4.jpg %}
+{% owl-img img/mrt-travel/mrt-5.jpg %}
 
 ...... (多餘的照片省略，其他的可以去相簿看喔)
 
 終於到了西門
 
-![](/blog/img/mrt-travel/mrt-6.jpg)
+{% owl-img img/mrt-travel/mrt-6.jpg %}
 
 <span style="color: red;">系統訊息：隊友勇竣加入！！</span>
 會合之後，我們就照原定路線往中正紀念堂走
@@ -70,24 +70,24 @@ categories:
 地點：中正紀念堂
 65個捷運站（當然不包括內湖線）最特別的一站
 
-![](/blog/img/mrt-travel/mrt-7.jpg)
+{% owl-img img/mrt-travel/mrt-7.jpg %}
 
 老樣子的站牌，可是抬頭一看......
 哇哇哇哇哇！！！！！！
 <span style="color: red; text-decoration: line-through;">是閃光！！！</span>
 
-![](/blog/img/mrt-travel/mrt-8.jpg)
+{% owl-img img/mrt-travel/mrt-8.jpg %}
 
 <span style="color: red;">欸欸蔣公是何等人物字還燙金欸字還燙金欸字還燙金欸......</span>
 旁邊
 
-![](/blog/img/mrt-travel/mrt-9.jpg)
+{% owl-img img/mrt-travel/mrt-9.jpg %}
 
 之後我們南下往南勢角前進
 沒啥特別的
 
-![](/blog/img/mrt-travel/mrt-10.jpg)
-![](/blog/img/mrt-travel/mrt-11.jpg)
+{% owl-img img/mrt-travel/mrt-10.jpg %}
+{% owl-img img/mrt-travel/mrt-11.jpg %}
 
 神秘物體入侵南勢角？！
 
@@ -96,15 +96,15 @@ categories:
 地點：七張
 一下車整個嚇到了－－對面也有月台？！
 
-![](/blog/img/mrt-travel/mrt-12.jpg)
+{% owl-img img/mrt-travel/mrt-12.jpg %}
 
 第一次看到捷運對面也有月台真的會嚇到
 基本上捷運站很少長這個樣子
 然後我們三人坐上只有三節列車的小碧潭
 接下來就很有趣了......
 
-![](/blog/img/mrt-travel/mrt-13.jpg)
-![](/blog/img/mrt-travel/mrt-14.jpg)
+{% owl-img img/mrt-travel/mrt-13.jpg %}
+{% owl-img img/mrt-travel/mrt-14.jpg %}
 
 嘎歐0口0　浮空椅？！
 
@@ -113,38 +113,38 @@ categories:
 風景就很好了
 新店的建築好像都很有特色
 
-![](/blog/img/mrt-travel/mrt-15.jpg)
+{% owl-img img/mrt-travel/mrt-15.jpg %}
 
 後來到小碧潭站
 站內也是很風光明媚
 
-![](/blog/img/mrt-travel/mrt-16.jpg)
+{% owl-img img/mrt-travel/mrt-16.jpg %}
 
 扛棒=ˇ=
 
-![](/blog/img/mrt-travel/mrt-17.jpg)
+{% owl-img img/mrt-travel/mrt-17.jpg %}
 
 站內景觀
 
-![](/blog/img/mrt-travel/mrt-18.jpg)
+{% owl-img img/mrt-travel/mrt-18.jpg %}
 
 應該不是筆筒樹的樹
 
-![](/blog/img/mrt-travel/mrt-19.jpg)
+{% owl-img img/mrt-travel/mrt-19.jpg %}
 
 椅子
 
-![](/blog/img/mrt-travel/mrt-20.jpg)
+{% owl-img img/mrt-travel/mrt-20.jpg %}
 
 <span style="color: red; text-decoration: line-through;">連造景也都有謎之液體流動的華麗阿阿阿阿！！！</span>
 
 後來我們就南下新店
 
-![](/blog/img/mrt-travel/mrt-21.jpg)
+{% owl-img img/mrt-travel/mrt-21.jpg %}
 
 補充一下從新店往北回去的竣哥睡姿
 
-![](/blog/img/mrt-travel/mrt-22.jpg)
+{% owl-img img/mrt-travel/mrt-22.jpg %}
 
 我在背日文單字
 （說不定哪天日文學幾個月就超越英文程度了）
@@ -153,16 +153,16 @@ categories:
 中途可能在台大醫院站吧
 遇到了一個奇怪的大手
 
-![](/blog/img/mrt-travel/mrt-23.jpg)
+{% owl-img img/mrt-travel/mrt-23.jpg %}
 
 於是做了一個「打坐」的動作
 
-![](/blog/img/mrt-travel/mrt-24.jpg)
+{% owl-img img/mrt-travel/mrt-24.jpg %}
 
 時間：中午
 地點：北車
 
-![](/blog/img/mrt-travel/mrt-25.jpg)
+{% owl-img img/mrt-travel/mrt-25.jpg %}
 
 是淡水線的招牌喔＝Ｄ
 
@@ -174,44 +174,44 @@ categories:
 
 接著直上淡水
 
-![](/blog/img/mrt-travel/mrt-26.jpg)
-![](/blog/img/mrt-travel/mrt-27.jpg)
+{% owl-img img/mrt-travel/mrt-26.jpg %}
+{% owl-img img/mrt-travel/mrt-27.jpg %}
 
 淡水線一直往上每站都長的不一樣
 害我們要下列車去找站牌
 錯過了三次
 再加上班車每5分鐘才有一班Orz......
 
-![](/blog/img/mrt-travel/mrt-28.jpg)
+{% owl-img img/mrt-travel/mrt-28.jpg %}
 
 過了民權西路就會衝到地面上了XXDDDD
 
 地點：圓山
 
-![](/blog/img/mrt-travel/mrt-29.jpg)
+{% owl-img img/mrt-travel/mrt-29.jpg %}
 
 該死的我們又要下車找站牌了......
 3人等車的同時
 大花就開始自拍了
 
-![](/blog/img/mrt-travel/mrt-30.jpg)
+{% owl-img img/mrt-travel/mrt-30.jpg %}
 
 接著勇竣也來拍
 
-![](/blog/img/mrt-travel/mrt-31.jpg)
+{% owl-img img/mrt-travel/mrt-31.jpg %}
 
 <span style="text-decoration: line-through;">我是被逼迫的......</span>（遭打）
 
-![](/blog/img/mrt-travel/mrt-32.jpg)
+{% owl-img img/mrt-travel/mrt-32.jpg %}
 
 車來了，
 就先到北投
 
-![](/blog/img/mrt-travel/mrt-33.jpg)
+{% owl-img img/mrt-travel/mrt-33.jpg %}
 
 再到淡水
 
-![](/blog/img/mrt-travel/mrt-34.jpg)
+{% owl-img img/mrt-travel/mrt-34.jpg %}
 
 話說回來，往新北投的列車真的奇慢無比
 班次表說10分鐘一班你真的要一趟開5分鐘嗎？（怒）
@@ -220,18 +220,18 @@ categories:
 淡水線也是風光明媚
 關渡一帶有很多豪宅，當狗仔菜鳥可以先來地理實查一下
 
-![](/blog/img/mrt-travel/mrt-35.jpg)
+{% owl-img img/mrt-travel/mrt-35.jpg %}
 
 這裡是圓山，圓山大飯店在往北上的路中
 
-![](/blog/img/mrt-travel/mrt-36.jpg)
+{% owl-img img/mrt-travel/mrt-36.jpg %}
 
 關渡站，意思就是說我們又在這等了5分鐘XXXDDDDDD
 
 回到北車
 我們向東挺進
 
-![](/blog/img/mrt-travel/mrt-37.jpg)
+{% owl-img img/mrt-travel/mrt-37.jpg %}
 
 「善導寺，猜一個三角函數？」
 各位先想一想，不要往下拉喔
@@ -239,46 +239,46 @@ categories:
 其實是csc，為什麼呢？
 因為善（sin）導寺（倒數）阿～～～
 
-![](/blog/img/mrt-travel/mrt-38.jpg)
+{% owl-img img/mrt-travel/mrt-38.jpg %}
 
 當初晃附中轉木柵線的站
 
 歲月如梭來到了昆陽
 
-![](/blog/img/mrt-travel/mrt-39.jpg)
+{% owl-img img/mrt-travel/mrt-39.jpg %}
 
 又到了南港
 
-![](/blog/img/mrt-travel/mrt-40.jpg)
+{% owl-img img/mrt-travel/mrt-40.jpg %}
 
 欸欸竣哥你擋到招牌了喔＝　＝
 
 南港有很多裝飾
 <span style="color: red; text-decoration: line-through;">尤其站牌為啥是白色不是藍色阿阿阿阿阿阿</span>
 
-![](/blog/img/mrt-travel/mrt-41.jpg)
+{% owl-img img/mrt-travel/mrt-41.jpg %}
 
 有幾米的畫
 手扶梯也有雕花
 
-![](/blog/img/mrt-travel/mrt-42.jpg)
+{% owl-img img/mrt-travel/mrt-42.jpg %}
 
 接下來去木柵線
 沒什麼特別，只是停靠站都在地上所以都超熱的
 我在站內喝了水（噓，小聲）
 貼照片補完吧
 
-![](/blog/img/mrt-travel/mrt-43.jpg)
-![](/blog/img/mrt-travel/mrt-44.jpg)
+{% owl-img img/mrt-travel/mrt-43.jpg %}
+{% owl-img img/mrt-travel/mrt-44.jpg %}
 
 此站下車就是附中（被大安高工打）
 
-![](/blog/img/mrt-travel/mrt-45.jpg)
+{% owl-img img/mrt-travel/mrt-45.jpg %}
 
 傳說，被我們AC了（資訊界稱法，義同GG）
 
 補充竣哥回程的英姿
 
-![](/blog/img/mrt-travel/mrt-46.jpg)
+{% owl-img img/mrt-travel/mrt-46.jpg %}
 
 （完）

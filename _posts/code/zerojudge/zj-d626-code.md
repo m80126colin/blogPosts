@@ -8,7 +8,7 @@ categories:
 - ZeroJudge
 ---
 
-![](/blog/img/20100713-170429-1.jpg)
+{% owl-img img/20100713-170429-1.jpg %}
 
 <!-- more -->
 

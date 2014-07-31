@@ -9,7 +9,7 @@ categories:
 - ZeroJudge
 ---
 
-{% img /blog/img/20091112-213039-1.jpg %}
+{% owl-img img/20091112-213039-1.jpg %}
 
 終於把上課的矩陣應用在上面了。
 

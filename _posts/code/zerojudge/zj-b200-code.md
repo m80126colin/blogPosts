@@ -8,7 +8,7 @@ categories:
 - ZeroJudge
 ---
 
-![](/blog/img/20091112-212924-1.jpg)
+{% owl-img img/20091112-212924-1.jpg %}
 
 目前寫過最噁心的解法（雖然看起來滿簡潔的）
 如果下次寫SCC的話，

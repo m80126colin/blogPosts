@@ -8,7 +8,7 @@ categories:
 - ZeroJudge
 ---
 
-![](/blog/img/20100709-145013-1.jpg)
+{% owl-img img/20100709-145013-1.jpg %}
 
 <span style="color: red;">下有捏請注意</span>
 

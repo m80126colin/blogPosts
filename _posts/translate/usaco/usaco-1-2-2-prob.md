@@ -7,7 +7,7 @@ categories:
 - USACO
 ---
 
-![](/blog/img/20091025-173718-1.jpg)
+{% owl-img img/20091025-173718-1.jpg %}
 
 <!-- more -->
 

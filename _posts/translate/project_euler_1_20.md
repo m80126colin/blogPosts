@@ -7,7 +7,7 @@ categories:
 - Project Euler
 ---
 
-![](/blog/img/20100531-210223-1.jpg)
+{% owl-img img/20100531-210223-1.jpg %}
 
 <!-- more -->
 
@@ -250,7 +250,7 @@ n → 3n + 1 (n is odd)
 
 從 {% math 2\times{2} %} 的方格左上角開始走，而且只能往右或往下走，總共有 6 種方法能走到右下角。
 
-![](/blog/img/20100531-210223-2.gif)
+{% owl-img img/20100531-210223-2.gif %}
 
 那麼走 {% math 20\times{20} %} 方格共有多少路線？
 
